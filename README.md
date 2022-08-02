@@ -27,8 +27,12 @@
 
 ## 2. 终端的显示
 **Luckyscreen_v1-黑框框版**
+
 ![image](https://user-images.githubusercontent.com/50138258/182326517-67775945-9590-4259-9aa3-5241312b1abc.png)
+
+
 **LuckyScreen_v2-桌面版**
+
 ![image](https://user-images.githubusercontent.com/50138258/182326231-5e053a91-b507-46df-b1b1-041f261d1908.png)
 
 
@@ -39,8 +43,6 @@
 2.   回到当前文件夹，【鼠标右键】-> 【属性】->【共享】-> 【共享】-> 【添加用户】
 
      添加用户： Everyone
-
-<img src="使用说明.assets/image-20220728180846655.png" alt="image-20220728180846655" style="zoom:80%;" />
 
 3.   【高级共享】选择【共享此文件夹】， 设置共享权限
 

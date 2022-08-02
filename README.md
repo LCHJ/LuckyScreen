@@ -1,3 +1,7 @@
+> A silent, lightweight automatic screenshot application that automatically takes and saves screenshots in the background at the click of a right mouse button.
+
+# 鼠标右键自动截图
+
 # 特别鸣谢&声明：
 
 **本软件优化自 @ 卷Fei, @ 卷Yong, @卷Xin；** 
